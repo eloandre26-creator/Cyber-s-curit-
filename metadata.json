@@ -1,0 +1,6 @@
+{
+  "name": "PHIS GUARD",
+  "description": "Détecteur pédagogique de signaux de phishing. Analyse locale et sécurisée des emails, SMS et URLs sans envoi de données.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
